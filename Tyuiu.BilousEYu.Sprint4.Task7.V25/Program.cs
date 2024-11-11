@@ -13,7 +13,7 @@ namespace Tyuiu.BilousEYu.Sprint4.Task7.V25
             Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту              *");
             Console.WriteLine("* Задание #7                                                           *");
             Console.WriteLine("* Вариант #25                                                          *");
-            Console.WriteLine("* Выполнил: Билоус Елизавета Юрьевна | ИСТНб-24-1                      *");
+            Console.WriteLine("* Выполнила: Билоус Елизавета Юрьевна | ИСТНб-24-1                     *");
             Console.WriteLine("************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                             *");
             Console.WriteLine("* Дана строка из одноразрядных цифр 348561792486. Преобразуйте ее в    *");
